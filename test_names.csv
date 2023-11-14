@@ -1,0 +1,12 @@
+# NAME,EMAIL,BLOCKLIST (Use hypen to seperate names)
+Jon,jon@email.com,Jane-Adam
+Adam,adam@email.com,Jon
+Jane,jane@email.com,Jon
+Emily,emily@email.com,
+Shane,shane@email.com,Felicity
+Lucy,lucy@email.com,
+Craig,craig@email.com,
+Megan,megan@email.com,
+Felicity,felicity@email.com,Shane
+
+
